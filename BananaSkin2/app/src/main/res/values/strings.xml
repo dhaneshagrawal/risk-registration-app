@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Risk Registration App</string>
+    <string name="title_activity_nav_drawer">NavDrawerAct</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Dhanesh Agrawal</string>
+    <string name="nav_header_subtitle">dhaneshagrwal@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Incident / Risk Event</string>
+    <string name="menu_gallery">Risk / Potential Loss</string>
+    <string name="menu_slideshow">Compliant</string>
+    <string name="menu_tools">Suggestions</string>
+
+<!--    <string name="menu_panic">Dont Panic</string>-->
+<!--    <string name="menu_kit">Emergency Kit</string>-->
+
+    <string name="menu_share">Dont Panic</string>
+    <string name="menu_send">Risk Discovery</string>
+    <string name="menu_discovery">Emergency Kit</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="concerning">
+        <item>IT Application</item>
+        <item>(IT) Hardware</item>
+        <item>Employee</item>
+        <item>Process</item>
+        <item>Business / Client</item>
+        <item>External</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="cause">
+        <item>Availability</item>
+        <item>Capacity</item>
+    </string-array>
+
+    <string-array name="impactedBusinessSpinner">
+        <item>RB</item>
+        <item>CB</item>
+        <item>PB</item>
+        <item>CIB</item>
+    </string-array>
+
+    <string-array name="impactedFunctionsSpinner">
+        <item>IT</item>
+        <item>Risk</item>
+        <item>Finance</item>
+        <item>Legal</item>
+        <item>HR</item>
+        <item>Corporate Office</item>
+    </string-array>
+
+    <string name="badge_count">10</string>
+
+    <string-array name="reputationalImpactSpinner">
+        <item>No</item>
+        <item>Local</item>
+        <item>National</item>
+        <item>World</item>
+    </string-array>
+
+    <string-array name="physicalDamageSpinner">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string name="hello">Hello</string>
+
+
+</resources>
