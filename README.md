@@ -50,7 +50,7 @@ Following softwares were used to run this application
 
 The project is builg using Gradle
 
-#### Features to be implemented for v2.0:
+## Features to be implemented for v2.0:
 
 - Retreiving and overview of registered risks
 - Providing points to user
