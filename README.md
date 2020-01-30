@@ -1,4 +1,4 @@
-Risk Registration App
+# Risk Registration App
 
 Android application built using Java, Kotlin, MySQL Database for risk registration. Database helper is created to store the risks but commented out during build phase for fast performance.
 
