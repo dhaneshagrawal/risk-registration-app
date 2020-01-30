@@ -6,6 +6,13 @@ Risk Registration App is an one easy tool accessible for everyone Risk, Event, I
 The android application has login screen followed by Risk Registration and features like share the risk, initiate payment, give suggestion, emergency contact numbers to be called and general awareness.
 The idea is to provide a gamification platform for users who register risk. For every risk registered users get points which can be later rewarded by the organization. The user only gets points once the registered risk is verified by the organization. When a risk the impact on costs above 1000$ is registered, notification is sent to the risk management team to check. 
 
+## Screens
+
+##### Login Screen
+
+![Login](BananaSkin2/Login.PNG)
+Format: ![Alt Text](url)
+
 Softwares/Configuration needed to run the project :-
 
 1) Android Studio or IDE with android supported plugin
